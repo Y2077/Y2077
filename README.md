@@ -9,6 +9,9 @@
 <br/>
 
 <div align="center">
+  <a href="./resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-00F2FE?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black"/>
+  </a>
   <a href="http://lattes.cnpq.br/9378983412113456" target="_blank">
     <img src="https://img.shields.io/badge/Lattes-CNPq-00C9FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
   </a>
@@ -18,6 +21,7 @@
   <a href="mailto:ynara.favoretto@spesia.com.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Y2077&style=for-the-badge&color=00f2fe&labelColor=0d1117&label=VISITORS"/>
 </div>
 
 ---
@@ -100,6 +104,7 @@
   ├── Concluded   : B.S. Bioprocess & Biotechnology Engineering — UFPR
   └── 2014 - 2018 : Technical High School Diploma in Computer Science — C.E. Pedro Macedo
 ```
+
 ---
 
 ### 🎯 Current Focus & Growth Path
@@ -135,7 +140,7 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y2077&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00ff87&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y2077&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=00f2fe&icon_color=00ff87&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y2077&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00ff87&text_color=c9d1d9"/>
 </div>
 
