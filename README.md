@@ -133,14 +133,15 @@
 
 ---
 
-### 📊 GitHub Statistics & Live Metrics
-
+### 📊 GitHub Statistics
 <div align="center">
-  <img src="./github-metrics.svg" alt="Ynara's Live GitHub Metrics" width="100%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y2077&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=00f2fe&icon_color=00ff87&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y2077&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9"/>
 </div>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y2077&hide_border=true&background=0d1117&stroke=00f2fe&ring=00ff87&fire=00ff87&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f2fe&sideLabels=00ff87&dates=888888" />
+</div>
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,30:00f2fe,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
